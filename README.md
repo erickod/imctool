@@ -2,7 +2,7 @@
 An IMC tool built on Rust to studying purposes
 
 
-## How run this projec?
+## How run this project?
 ### Install Rust Tools
 Make sure you have the Rust Tools installed on your machine.
 To configure Rust on your system, [read this](https://rustup.rs).
