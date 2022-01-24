@@ -1,5 +1,5 @@
 # bmitool
-An BMI tool built on Rust to studying purposes
+A BMI tool built on Rust to studying purposes
 
 
 ## How run this project?
