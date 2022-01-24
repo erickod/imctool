@@ -12,8 +12,8 @@ To configure Rust on your system, [read this](https://rustup.rs).
 
 ### Test the build
 Insise the target dir/realease your can find:
-- ```imctool```if your are on Linyx/Mac```
-- ```imctool.exe``` if you are on Windows```
+- ```imctool```if your are on Linyx/Mac
+- ```imctool.exe``` if you are on Windows
 
 Exec that file following the below commands;
 
