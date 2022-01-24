@@ -1,4 +1,4 @@
-# imctool
+# bmitool
 An BMI tool built on Rust to studying purposes
 
 
@@ -12,8 +12,8 @@ To configure Rust on your system, [read this](https://rustup.rs).
 
 ### Test the build
 Insise the target dir/realease your can find:
-- ```imctool``` if your are on Linux/Mac
-- ```imctool.exe``` if you are on Windows
+- ```bmitool``` if your are on Linux/Mac
+- ```bmitool.exe``` if you are on Windows
 
 Exec that file following the below commands;
 
